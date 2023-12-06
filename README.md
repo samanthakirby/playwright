@@ -1,2 +1,2 @@
 # playwright
-Playwright framework
+Playwright framework using page object models.
